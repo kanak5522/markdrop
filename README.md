@@ -8,4 +8,4 @@ This is also _italic_ text.
 
 [Link to Microsoft Training](/training)
 
-\_This is plain text
+\_This is plain text_
