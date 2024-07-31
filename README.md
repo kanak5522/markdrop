@@ -20,3 +20,7 @@ This is also _italic_ text.
 
 - one
   - two
+
+    first | second
+    -|-
+    knk|1234
