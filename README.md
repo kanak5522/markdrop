@@ -10,9 +10,9 @@ This is also _italic_ text.
 
 \_This is plain text_
 
-1.one
-1.two
-1.three
+1. one
+1. two
+1. three
 
 1. First
 1. Second
